@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\Ozrokov\source\repos\Тест\MyForm.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Ozrokov\source\repos\Тест\MyForm.h(603,30): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ozrokov\source\repos\Тест\MyForm.h(652,30): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ozrokov\source\repos\Тест\MyForm.h(721,30): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ozrokov\source\repos\Тест\MyForm.h(764,22): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ozrokov\source\repos\Тест\MyForm.h(768,22): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Тест.vcxproj -> C:\Users\Ozrokov\source\repos\Тест\x64\Debug\Тест.exe

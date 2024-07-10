@@ -1,0 +1,9 @@
+C:\Users\Ozrokov\source\repos\Тест\Тест\x64\Debug\Тест.vcxproj.AssemblyReference.cache
+C:\Users\Ozrokov\source\repos\Тест\Тест\x64\Debug\Тест.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ozrokov\source\repos\Тест\Тест\x64\Debug\Тест.MyForm.resources
+C:\Users\Ozrokov\source\repos\Тест\Тест\x64\Debug\Тест.vcxproj.GenerateResource.cache
+C:\Users\Ozrokov\source\repos\Тест\x64\Debug\Тест.vcxproj.AssemblyReference.cache
+C:\Users\Ozrokov\source\repos\Тест\x64\Debug\Тест.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ozrokov\source\repos\Тест\x64\Debug\Тест.MyForm.resources
+C:\Users\Ozrokov\source\repos\Тест\x64\Debug\Тест.vcxproj.GenerateResource.cache
+C:\Users\Ozrokov\source\repos\Тест\x64\Debug\Тест.exe
